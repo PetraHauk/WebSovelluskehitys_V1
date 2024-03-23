@@ -1,0 +1,34 @@
+body {
+    font-family: Rockwell, Roboto, light, Calibri, sans-serif;
+}
+a {
+    color: black;
+    text-decoration: none;
+    margin-top: 10px;
+}
+a:hover {
+    color: #45b062;
+}
+img {
+    border-style: solid;
+    border-color: #45b062;
+    border-radius: 10%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+table {
+    background-color: #7ede98;
+    margin-top: 10px;
+}
+tr:nth-child(even) {
+    background: #45b062;
+}
+td {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+}
+ul {
+    list-style: none;
+    margin-top: 10px;
+}
